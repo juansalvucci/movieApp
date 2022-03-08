@@ -1,0 +1,21 @@
+._movie {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 680px;
+}
+
+._card {
+  background-color: rgba(129, 127, 127, 0.637);
+  height: auto;
+  margin-left: 32%;
+  top: 30%;
+  text-align: justify;
+  font-size: 82%;
+  padding: 0.1%;
+  border-radius: 25px;
+}
+
+.h3_card {
+  color: rgb(255, 255, 255);
+  margin-top: 2%;
+}

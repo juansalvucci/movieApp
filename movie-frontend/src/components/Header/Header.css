@@ -1,0 +1,35 @@
+.header {
+  background-color: rgb(0, 0, 0);
+  height: 80px;
+  padding-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: rgba(255, 0, 0, 0.863);
+  margin-left: 5%;
+  display: flex;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  display: flex;
+}
+
+h1 {
+  color: rgba(255, 0, 0, 0.904);
+  padding-top: 10px;
+  margin-left: 2%;
+  position: center;
+  display: flex;
+}
+
+h5 {
+  color: rgba(255, 0, 0, 0.863);
+  padding-top: 1%;
+  margin-left: 76%;
+  position: center;
+  display: flex;
+}

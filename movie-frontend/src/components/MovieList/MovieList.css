@@ -1,0 +1,10 @@
+.lista-item {
+  background-color: rgba(29, 29, 29, 0.801);
+  margin-left: 0.1%;
+}
+
+h6 {
+  color: rgb(255, 255, 255);
+  margin-top: 2%;
+  position: relative;
+}

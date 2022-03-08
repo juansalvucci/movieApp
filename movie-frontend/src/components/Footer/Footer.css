@@ -1,0 +1,24 @@
+.footer {
+  margin-top: 2%;
+  background-color: rgba(59, 58, 58, 0.452);
+  height: 123px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 !important;
+}
+
+h1 {
+  color: rgba(255, 0, 0, 0.904);
+  padding-top: 10px;
+  margin-left: 2%;
+  position: center;
+  display: flex;
+}
+
+h5 {
+  color: rgba(255, 0, 0, 0.863);
+  padding-top: 1%;
+  margin-left: 76%;
+  position: center;
+  display: flex;
+}

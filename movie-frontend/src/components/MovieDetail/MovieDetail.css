@@ -1,0 +1,56 @@
+._movieDetailFondo {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  height: 680px;
+}
+
+._image {
+  margin-left: 18%;
+  margin-top: 25%;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  margin-left: 14%;
+  margin-right: 10%;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: 140%;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  margin-top: 2%;
+  margin-left: 14%;
+  font-size: 300%;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+h3 {
+  color: rgb(255, 254, 253);
+  margin-top: 7%;
+  margin-left: 14%;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+li {
+  color: rgb(255, 255, 255);
+  margin-left: 14%;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: 140%;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.button {
+  left: 14%;
+  margin-top: 0.6%;
+  margin-right: 20%;
+}
+
+.h5_year {
+  margin-left: 2%;
+  margin-top: 0.6%;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
